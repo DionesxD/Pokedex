@@ -36,7 +36,7 @@ Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver mel
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
