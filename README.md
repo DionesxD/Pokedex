@@ -1,4 +1,5 @@
 # Projeto Pokedex
+![image](https://github.com/DionesxD/Pokedex/assets/110851857/4271818f-ce9b-4bc5-ac6d-55f8af9f7c5b)
 
 Bem-vindo ao Projeto Pokedex! Esta é uma Pokedex simples implementada usando HTML, CSS e JavaScript. Com esta aplicação web, você pode explorar uma extensa lista de Pokémon, obter informações detalhadas sobre cada um e até mesmo visualizar suas imagens.
 
